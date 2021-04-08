@@ -2,13 +2,13 @@
 
 ## Linha do tempo dos Léxicos
 
-  * Outrage(./Outrage.html)
-  * Argumentação(./Argumentation.html )
-  * Vagueza(./Vagueness.html)
-  * Sentimento(Sentiment.html )
+  * [Outrage](./Outrage.html)
+  * [Argumentação](./Argumentation.html )
+  * [Vagueza](./Vagueness.html)
+  * [Sentimento](Sentiment.html )
   
 ## Léxicos do Parlamentar
 
-  * Marcelo Freixo(./freixo.html)
-  * Rodrigo Maia(./Maia.html)
-  * Eduardo Bolsonaro(./ebolsonaro.html)
+  * [Marcelo Freixo](./freixo.html)
+  * [Rodrigo Maia](./Maia.html)
+  * [Eduardo Bolsonaro](./ebolsonaro.html)

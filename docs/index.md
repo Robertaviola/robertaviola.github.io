@@ -22,3 +22,8 @@
   * [Reforma da Previdência](./rp.html)
   * [Reforma Tributária](./rt.html)
   * [Reforma Administrativa](./ra.html)
+
+##Comportamento
+
+ *[Argumentação](./argGeral.html)
+ *[Outrage](./outGeral.html)

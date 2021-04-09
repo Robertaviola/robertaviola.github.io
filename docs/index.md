@@ -25,6 +25,7 @@
   * [Covid](./covid.html)
   * [Impeachment](./imp.html)
   * [Todos os temas no Congresso](./geralTemas.html)
+  * [Todos os temas no Congresso (- covid)](./geralTemas-covid.html)
   
 ## Comportamento
 

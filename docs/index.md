@@ -23,7 +23,7 @@
   * [Reforma Tributária](./rt.html)
   * [Reforma Administrativa](./ra.html)
 
-##Comportamento
+## Comportamento
 
- *[Argumentação](./argGeral.html)
- *[Outrage](./outGeral.html)
+ * [Argumentação](./argGeral.html)
+ * [Outrage](./outGeral.html)

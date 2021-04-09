@@ -22,8 +22,12 @@
   * [Reforma da Previdência](./rp.html)
   * [Reforma Tributária](./rt.html)
   * [Reforma Administrativa](./ra.html)
-
+  * [Covid](./covid.html)
+  * [Impeachment](./imp.html)
+  * [Todos os temas no Congresso](./geralTemas.html)
+  
 ## Comportamento
 
  * [Argumentação](./argGeral.html)
  * [Outrage](./outGeral.html)
+

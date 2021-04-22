@@ -49,3 +49,7 @@
 
 * [Impeachment x Outrage](./out_impeachment.html)
 
+## Quantidade total de Tweets
+
+ * [ Parlamentares x Influenciadores](./quant_infparl.html)
+

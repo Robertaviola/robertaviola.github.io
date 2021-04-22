@@ -22,6 +22,7 @@
   * [Reforma da Previdência](./rp.html)
   * [Reforma Tributária](./rt.html)
   * [Reforma Administrativa](./ra.html)
+  * [Reformas Econômicas](./reformas_economicas.html)
   * [Covid](./covid.html)
   * [Impeachment](./imp.html)
   * [Todos os temas no Congresso](./geralTemas.html)
@@ -42,9 +43,9 @@
 
 ## Covid x Outrage
 
-* [Covid x Outrage](./covid_outrage.html)
+* [Covid x Outrage](./out_covid.html)
 
 ## Impeachment x Outrage
 
-* [Impeachment x Outrage](./impeachment_outrage.html)
+* [Impeachment x Outrage](./out_impeachment.html)
 

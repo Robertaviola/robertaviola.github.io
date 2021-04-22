@@ -32,3 +32,19 @@
  * [Argumentação](./argGeral.html)
  * [Outrage](./outGeral.html)
 
+## Covid / Partidos
+
+ * [Covid_partidos](./covid_partidos.html)
+
+## Impeachment / Partidos
+ 
+ * [Impeachment_partidos](./impeachment_partidos.html)
+
+## Covid x Outrage
+
+* [Covid x Outrage](./covid_outrage.html)
+
+## Impeachment x Outrage
+
+* [Impeachment x Outrage](./impeachment_outrage.html)
+
